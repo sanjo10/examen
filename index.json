@@ -1,0 +1,75 @@
+{
+    "Datoscliente": [
+      {
+        
+          "apellidos": "Preciado",
+          "nombres": "Sanler",
+          "cedula": 12154218111,
+          "direccion": "San Pedro",
+          "telefono": "062741052"
+        },
+        {
+          "apellidos": "Lobert",
+          "nombres": "Marcaela",
+          "cedula": 2137747898,
+          "direccion": "calle 13",
+          "telefono": "062457826"
+        },
+        {
+          "apellidos": "Guardin",
+          "nombres": "Juanglur",
+          "cedula": 1747781747,
+          "direccion": "calle 15",
+          "telefono": "058741368"
+        },
+        {
+          "apellidos": "Marinay",
+          "nombres": "Jor",
+          "cedula":  1247855269,
+          "direccion": "calle 125",
+          "telefono": "062472187"
+        },
+        {
+          "apellidos": "Cardenas",
+          "nombres": "Martin",
+          "cedula": 1547896523,
+          "direccion": "calle 25",
+          "telefono": "30554433"
+        },
+        {
+          "apellidos": "Luan",
+          "nombres": "Karen",
+          "cedula": 23155482134,
+          "direccion": "calle 25",
+          "telefono": "062478535"
+        },
+        {
+          "apellidos": "Gutierrez",
+          "nombres": "Mirca",
+          "cedula": 8714797579,
+          "direccion": "calle 52",
+          "telefono": "3002211"
+        },
+        {
+          "apellidos": "Gueva",
+          "nombres": " Isabel",
+          "cedula": 6213654789,
+          "direccion": "calle  bolivar",
+          "telefono": "40037777"
+        },
+        {
+          "apellidos": "Lopera",
+          "nombres": "Milan",
+          "cedula": 5231452369,
+          "direccion": "calle circuvalacion",
+          "telefono": "2001122"
+        },
+        {
+          "apellidos": "Angulo",
+          "nombres": "Luid",
+          "cedula": 32147836796,
+          "direccion": "calle 53",
+          "telefono": "06587285"
+        }
+      ]
+  }
